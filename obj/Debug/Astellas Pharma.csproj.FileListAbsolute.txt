@@ -1,0 +1,23 @@
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\Astellas Pharma.exe.config
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\Astellas Pharma.exe
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\Astellas Pharma.pdb
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\MySql.Data.dll
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\Google.Protobuf.dll
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\BouncyCastle.Crypto.dll
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\Ubiety.Dns.Core.dll
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\Renci.SshNet.dll
+C:\C# Projects\Astellas Pharma\Astellas Pharma\bin\Debug\MySql.Data.xml
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas Pharma.csprojAssemblyReference.cache
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.FrmWelcome.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.Properties.Resources.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas Pharma.csproj.GenerateResource.cache
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas Pharma.csproj.CoreCompileInputs.cache
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas Pharma.csproj.CopyComplete
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas Pharma.exe
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas Pharma.pdb
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.FrmLogin.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.FrmRegister.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.frmDashboard.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.FrmMakeReviewRequest.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.FrmReviewTasks.resources
+C:\C# Projects\Astellas Pharma\Astellas Pharma\obj\Debug\Astellas_Pharma.FrmRatingComments.resources
